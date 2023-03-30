@@ -6,7 +6,7 @@
 
 
 body{
-	background-image: url("img/mainbg2.jpg");
+	background-image: url("mainbg2.jpg");
 	background-repeat: no-repeat;
 /*	background-attachment: fixed;*/
 	background-size: 100% 600px;
@@ -322,7 +322,7 @@ margin: 12px;
 /*flex-basis: 500px;*/
 color: white;
 letter-spacing: 4px;
-	background-image: url('img/mainbg4.jpg');
+	background-image: url('mainbg4.jpg');
 	background-color: rgba(0, 0, 0, 0.1);
 	font-family: 'Bebas Neue', cursive;
 /*	font-family: 'Alkatra', cursive;*/
