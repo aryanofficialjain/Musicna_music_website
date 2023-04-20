@@ -1,2 +1,3 @@
 # Musicna_music_website
+Looking for an engaging and visually appealing music website? Check out our GitHub repository featuring HTML and CSS code for creating a stunning website that showcases your music! Our repository includes easy-to-follow instructions and customizable templates, so you can create a unique and SEO-optimized site that is sure to rank high in search results. Start building your online presence today with our music website GitHub repository! #MusicWebsite #HTML #CSS #GitHub #SEO #Optimization
 this is a music webiste that is bulit by html and css and you can also connect me on linked in profile - https://www.linkedin.com/in/aryan-jain-124717272/
